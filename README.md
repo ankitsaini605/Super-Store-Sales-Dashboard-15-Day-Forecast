@@ -19,6 +19,12 @@ The solution integrates **Excel (🧹 data cleaning), SQL (🗄️ queries), and
 
 ---
 
+## 📸 Dashboard Preview 
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/0fd82eca-97b0-4f0c-8723-c56f4ab89214" />
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/70e7fe6a-b44b-4153-ba88-0de44132712e" />
+
+---
+
 ## 📈 Key Insights  
 - Top‑performing product categories & regions identified.  
 - Seasonal sales patterns revealed through forecasting.  
